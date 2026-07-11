@@ -82,6 +82,26 @@ Business Insights & Recommendations
 - Customer Segmentation
 
 ---
+## 📸 Dashboard Preview
+
+## 📊 Executive Dashboard
+
+![Executive Dashboard](powerbi/Executive%20Dashboard.png)
+
+---
+
+## 📈 Marketing Performance Dashboard
+
+![Marketing Dashboard](powerbi/Marketing%20Dashboard.png)
+
+---
+
+## 🚗 Customer & Vehicle Insights Dashboard
+
+![Customer Dashboard](powerbi/Customer%20Dashboard.png)
+
+
+---
 
 ## 📈 Business Questions Solved
 
