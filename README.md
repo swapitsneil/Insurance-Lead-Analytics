@@ -129,21 +129,24 @@ Business Insights & Recommendations
 ```
 Insurance-Lead-Analytics/
 │
-├── Data/
+├── data/
 │   ├── Raw Dataset.xlsx
 │   └── cleaned_insurance_data.csv
 │
-├── Notebook/
+├── notebook/
 │   └── analysis.ipynb
 │
-├── Dashboard/
+├── powerbi/
 │   └── Insurance Dashboard.pbix
 │
-├── Images/
+├── images/
 │   ├── Executive Dashboard.png
 │   ├── Marketing Dashboard.png
 │   └── Customer Dashboard.png
 │
+|
+├── Executive summary.pdf
+|
 └── README.md
 ```
 
