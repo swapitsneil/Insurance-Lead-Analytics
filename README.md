@@ -86,19 +86,19 @@ Business Insights & Recommendations
 
 ## 📊 Executive Dashboard
 
-![Executive Dashboard](powerbi/Executive%20Dashboard.png)
+![Executive Dashboard](powerbi/Executive Dashboard.png)
 
 ---
 
 ## 📈 Marketing Performance Dashboard
 
-![Marketing Dashboard](powerbi/Marketing%20Dashboard.png)
+![Marketing Performance](powerbi/Marketing Performance.png)
 
 ---
 
 ## 🚗 Customer & Vehicle Insights Dashboard
 
-![Customer Dashboard](powerbi/Customer%20Dashboard.png)
+![Customer Dashboard](powerbi/Customer & Vehicle Insights.png)
 
 
 ---
